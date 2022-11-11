@@ -6,9 +6,9 @@ export const data = [
   },
 
   {
-    question: "What is the correct syntax for referring to an external script called 'xxx.js'?",
-    choices: ["<script src='xxx.js'>", "<script name='xxx.js'>", "<script href='xxx.js'>", "<script type='xxx.js'>"],
-    answer: "<script src='xxx.js'>",
+    question: "What is the correct syntax for referring to an external script called 'index.js'?",
+    choices: ["<script src='index.js'>", "<script name='index.js'>", "<script href='index.js'>", "<script type='index.js'>"],
+    answer: "<script src='index.js'>",
   },
 
   {
